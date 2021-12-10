@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-**Rapido730/Rapido730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 😍😍😎
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about my work i will be happy to help.
