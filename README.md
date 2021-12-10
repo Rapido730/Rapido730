@@ -5,20 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapido730&theme=<THEME_NAME>" />
+- 🔭 I’m currently working on 😍😍😎
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about my work i will be happy to help.
+- 📫 How to reach me: [sharmamit510@gmail.com](sharmamit510@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1Am60qi3vsHFdct8py4jgzZ3ILaV64JBn/view)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rapido730&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-START_SECTION:waka
-```text
-No Activity tracked this Week
-```
-END_SECTION:waka
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapido730&theme=<THEME_NAME>" />
