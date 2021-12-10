@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📝 [Resume](https://drive.google.com/file/d/1Am60qi3vsHFdct8py4jgzZ3ILaV64JBn/view)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rapido730&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapido730&theme=<THEME_NAME>" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapido730&theme=<THEME_NAME>" />
